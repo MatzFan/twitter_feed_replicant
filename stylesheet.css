@@ -1,0 +1,32 @@
+body {
+  background-color: gray;
+}
+
+.main-center {
+  margin-top: 70px;
+  background-color: green;
+}
+
+.scroll-page {
+  background-color: white;
+  margin: 30px;
+}
+
+.first-banner-row {
+  background-color: orange;
+}
+
+.component {
+  width: 300px;
+  border-color: gray;
+  border: solid;
+}
+
+.profile-header {
+  width: 100%;
+}
+
+.tweet {
+  border: solid;
+  border-color: black;
+}
