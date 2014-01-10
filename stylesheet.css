@@ -16,7 +16,7 @@ body {
   background-color: orange;
 }
 
-.component {
+.scroll-panel-frame {
   width: 300px;
   border-color: gray;
   border: solid;
